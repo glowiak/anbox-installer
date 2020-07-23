@@ -1,7 +1,7 @@
 #!/bin/sh
 echo This is unofficial Anbox Installer
 echo Compatible systems:
-echo Ubuntu and Ubunth based distros.
+echo Ubuntu and Ubuntu based distros.
 echo This installer works on Ubuntu 18.10 and lower.To install Anbox on Ubuntu 19.04 and never type:
 echo sudo snap install --devmode --beta anbox
 echo Open this file with sh or it doesnt works.
